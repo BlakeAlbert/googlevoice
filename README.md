@@ -1,6 +1,6 @@
 # Google Voice 中文注册、登录、转移和使用方法
 
-购买：https://t.me/GVStore
+购买：https://t.me/BlakeA76020
 
 ## 注意事项
 
